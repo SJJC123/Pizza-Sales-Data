@@ -10,7 +10,3 @@ pizza_sales.csv - The data set that I used for this project
 
 pizzadataqueries.sql - MySQL queries with explainations for each section I was trying to calculate for. Note that I did not use every calculation in the final dashboard, but chose the ones I felt were the most important to present on the dashboard.
 
-If it requires you to connect to MySQL or another local server, here are the username and password:
-
-username: root
-password: root
